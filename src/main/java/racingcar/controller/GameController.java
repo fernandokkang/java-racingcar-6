@@ -18,5 +18,7 @@ public class GameController {
 
     public void run() {
 
+        inputView.enterRacingCarsName();
+        inputView.enterRacingCarsName();
     }
 }
